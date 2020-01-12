@@ -1,0 +1,22 @@
+{
+  "name": "custom-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custom-lodash.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evannetta/Custom-Lodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evannetta/Custom-Lodash/issues"
+  },
+  "homepage": "https://github.com/evannetta/Custom-Lodash#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
